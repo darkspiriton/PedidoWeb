@@ -1,0 +1,6 @@
+---
+applications:
+- name: PedidoWeb
+  memory: 512M
+  host: PedidoWeb
+  domain: mybluemix.net
